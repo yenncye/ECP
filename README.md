@@ -1,7 +1,7 @@
 # A Training-Free, Task-Agnostic Framework for Enhancing MLLM Performance on High-Resolution Images
 Jaeseong Lee*, Yeeun Choi*, Heechan Choi*, Hanjung Kim, Seon Joo Kim 
 
-[CVPRW25] [**Emergent Visual Abilities and Limits of Foundation Models (EVAL-FoMo 2)**](https://sites.google.com/view/eval-fomo-2-cvpr/home?authuser=0) accepted!
+CVPR 2025 Workshop [**Emergent Visual Abilities and Limits of Foundation Models (EVAL-FoMo 2)**](https://sites.google.com/view/eval-fomo-2-cvpr/home?authuser=0) accepted!
 
 ![ECP](assets/figure.png)
 
