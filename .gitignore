@@ -1,0 +1,5 @@
+*.parquet
+*.pyc
+**/__pycache__/
+GUI-grounding/ScreenSpot-Pro/*
+MLLM-perception/HR-Bench/*
